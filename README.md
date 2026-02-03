@@ -33,13 +33,26 @@ Here are some ideas to get you started:
 
 ## 🛠️ Tech Stack
 
+<table align="center">
+<tr>
+
+<td width="33%" valign="top">
+
 ### 👨‍💻 Languages
 - Java • Kotlin • SQL • Python
+
+</td>
+
+<td width="33%" valign="top">
 
 ### 📱 Mobile Development
 - Jetpack Compose
 - Android SDK
 - Kotlin Coroutines
+
+</td>
+
+<td width="33%" valign="top">
 
 ### ⚙️ Backend & APIs
 - Spring Boot
@@ -48,23 +61,44 @@ Here are some ideas to get you started:
 - JWT Authentication
 - API Integration & Development
 
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
 ### 🌐 Frontend & Web
 - React.js
 - Tailwind CSS
 - Axios
+
+</td>
+
+<td width="33%" valign="top">
 
 ### 🗄️ Databases & Cloud
 - MySQL
 - Firebase Realtime DB
 - MongoDB
 - Room Database
-- Google Cloud Platform (API & Management)
+- GCP (API & Management)
+
+</td>
+
+<td width="33%" valign="top">
 
 ### 🛠️ DevOps & Tools
 - Git • GitHub • Linux
 - Android Studio • VS Code
 - Postman
 - GitHub Actions (Basic CI/CD)
+
+</td>
+
+</tr>
+</table>
 
 
 ## ⚙️ Development Ecosystem
